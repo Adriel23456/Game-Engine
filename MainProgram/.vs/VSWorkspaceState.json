@@ -8,7 +8,13 @@
     ]
   },
   "ExpandedNodes": [
-    ""
+    "",
+    "\\out",
+    "\\out\\build",
+    "\\thirdparty\\imgui-docking\\imgui",
+    "\\thirdparty\\imgui-docking\\imgui\\examples",
+    "\\thirdparty\\imgui-docking\\imgui\\examples\\example_allegro5"
   ],
+  "SelectedNode": "\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }
